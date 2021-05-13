@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @youoldmiyoung! You can call me Mia. 
+- 📚 I'm a Computer Information Systems student at Arizona State University.
 - 👀 I’m interested in (backend) web and mobile development, game development, and cybersecurity.
 - 🌱 I’m currently learning JavaScript, C, and C# within the context of Unity.
 - 💞️ I’m looking to collaborate on game dev!
