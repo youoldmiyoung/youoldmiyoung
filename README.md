@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youoldmiyoung! You can call me Mia. 
 - 📚 I'm a Software Engineering (B.S.) student at Arizona State University.
 - 👀 I’m a backend programmer interested in embedded systems, systems programming, and data structures and algorithms.
-- 🌱 I’m currently working with Java, C, Python, and C# (within the context of Unity).
+- 🌱 I’m currently working with Java, C, Python, and JavaScript.
 - 📫 How to reach me ... Instagram: https://www.instagram.com/miga.exe | email: upon request
 
 <!---
