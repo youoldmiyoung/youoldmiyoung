@@ -2,7 +2,7 @@
 - 📚 I'm a Software Engineering (B.S.) student at Arizona State University.
 - 👀 I’m a backend programmer interested in embedded systems, systems programming, and data structures and algorithms.
 - 🌱 I’m currently working with Java, C, Python, and JavaScript.
-- 📫 How to reach me ... Instagram: https://www.instagram.com/miga.exe | email: upon request
+- 📫 How to reach me ... Website: https://portfolio-mregnier.netlify.app/ | Instagram: https://www.instagram.com/miga.exe | email: upon request
 
 <!---
 youoldmiyoung/youoldmiyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
